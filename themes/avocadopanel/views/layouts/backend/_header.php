@@ -28,11 +28,11 @@
         <li class="dropdown">
 
           <!-- User Navigation: Notifications Link -->
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+          <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown">
             <i class="icon-align-justify icon-white"></i>
             <span class="hidden-phone"> Notifications </span>
             <span class="badge badge-inverse">16</span>
-          </a>
+          </a> -->
           <!-- / User Navigation: Notifications Link -->
 
           <!-- User Navigation: Notifications Dropdown -->
@@ -102,11 +102,11 @@
         <li class="dropdown">
 
           <!-- User Navigation: Messages Link -->
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+          <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown">
             <i class="icon-envelope icon-white"></i>
             <span class="hidden-phone"> Messages </span>
             <span class="badge badge-inverse">5</span>
-          </a>
+          </a> -->
           <!-- / User Navigation: Messages Link -->
 
           <!-- / User Navigation: Messages Dropdown -->
@@ -166,7 +166,7 @@
           <!-- User Navigation: User Link -->
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">
             <i class="icon-user icon-white"></i>
-            <span class="hidden-phone">Janika</span>
+            <span class="hidden-phone">Admin</span>
           </a>
           <!-- / User Navigation: User Link -->
 
@@ -210,7 +210,7 @@
        <ul class="pull-right">
          <li class="dropdown">
            <!-- Top Fixed Bar: Breadcrumb Theme Link -->
-           <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog"></i> Theme</a>
+           <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog"></i> Theme</a> -->
 
            <!-- Top Fixed Bar: Breadcrumb Theme Dropdown -->
            <ul class="dropdown-menu" id="theme">
@@ -225,7 +225,7 @@
          </li>
          <!-- / Top Fixed Bar: Breadcrumb Theme -->
 
-         <li><a href="login.html"><i class="icon-off"></i> Logout</a></li>
+         <!-- <li><a href="login.html"><i class="icon-off"></i> Logout</a></li> -->
        </ul>
 
    </div>

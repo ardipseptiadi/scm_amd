@@ -52,15 +52,15 @@
       <div class="container">
 
 				<!-- Footer Container: Content -->
-        <p>Development and design by <a href="http://github.com/ardipseptiadi">Ardi</a></p>
+        <!-- <p>Development and design by <a href="http://github.com/ardipseptiadi">Ardi</a></p> -->
         <p>Copyright <a href="http://scmamidis.dev">Amidis</a> 2017. All rights resserved.</p>
-        <ul>
+        <!-- <ul>
           <li><a href="http://themeforest.net/user/LycheeDesigns">Buy Theme</a></li>
           <li class="muted">·</li>
           <li><a href="http://themeforest.net/user/LycheeDesigns">Lychee</a></li>
           <li class="muted">·</li>
           <li><a href="https://twitter.com/lycheedesigns">Twitter</a></li>
-        </ul>
+        </ul> -->
         <!-- / Footer Container: Content -->
 
       </div>
